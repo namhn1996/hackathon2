@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+form.formHocvien {
+    width: 400px;
+    border: 1px solid rgba(0, 0, 0, 0.336);
+    margin: 25px;
+    padding: 10px;
+}
+h1 {
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+form.formHocvien label{
+    width: 100px;
+    float: left;
+}
+form.formHocvien input[type="text"]{
+    width: 260px;
+    margin-bottom: 10px;
+    height: 30px;
+    
+}
+form.formHocvien button{
+    width: 260px;
+    margin-bottom: 10px;
+    height: 30px;
+    margin-left: 18%;
+    margin-top: 20px;
+    height: 30px;
+}
+div.listHocvien table{
+    
+    width: 800px;
+    margin-top: 20px;
+    text-align: center;
+}
+div.listHocvien{
+    border: 1px solid rgba(0, 0, 0, 0.336);
+    margin: 25px;
+    padding: 10px;
+}
